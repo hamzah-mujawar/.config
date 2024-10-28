@@ -1,0 +1,6 @@
+*
+!.gitignore
+!picom.conf
+!nvim/*
+!wezterm/*
+!polybar/*
