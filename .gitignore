@@ -1,6 +1,14 @@
+# Ignore everything by default
 *
+
+# Force include .gitignore, picom.conf, and directories with contents
 !.gitignore
 !picom.conf
-!nvim/*
-!wezterm/*
-!polybar/*
+!nvim/
+!wezterm/
+!polybar/
+
+# Ensure contents within these directories are included
+!nvim/**
+!wezterm/**
+!polybar/**
