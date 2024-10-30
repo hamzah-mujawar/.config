@@ -10,5 +10,6 @@
 
 # Ensure contents within these directories are included
 !nvim/**
+nvim/*.json
 !wezterm/**
 !polybar/**
