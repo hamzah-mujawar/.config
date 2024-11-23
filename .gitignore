@@ -6,10 +6,18 @@
 !picom.conf
 !nvim/
 !wezterm/
-!polybar/
+!waybar/
+!kitty/
+!hypr/
+!fuzzel/
+!waypaper/
 
 # Ensure contents within these directories are included
 !nvim/**
 nvim/*.json
 !wezterm/**
-!polybar/**
+!waybar/**
+!kitty/**
+!hypr/**
+!fuzzel/**
+!waypaper/**

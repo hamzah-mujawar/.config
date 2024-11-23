@@ -5,4 +5,5 @@ require("lazy").setup("plugins")
 
 vim.opt.clipboard = "unnamedplus"
 vim.opt.colorcolumn = "0"
+vim.o.mouse=a
 
