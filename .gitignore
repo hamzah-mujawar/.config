@@ -12,6 +12,7 @@
 !fuzzel/
 !waypaper/
 
+
 # Ensure contents within these directories are included
 !nvim/**
 nvim/*.json
@@ -21,3 +22,4 @@ nvim/*.json
 !hypr/**
 !fuzzel/**
 !waypaper/**
+
