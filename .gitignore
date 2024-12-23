@@ -1,0 +1,21 @@
+# Ignore all by default
+*
+
+# Include these files
+!.gitignore
+!guix/
+!waybar/
+!fuzzel/
+!hypr/
+!kitty/
+
+# Ensure contents within these directories are included, but exclude specific files
+!guix/**
+guix/current
+!nvim/**
+nvim/*.json
+!waybar/**
+!kitty/**
+kitty/*.bak
+!hypr/**
+!fuzzel/**
