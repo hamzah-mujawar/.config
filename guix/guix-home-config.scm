@@ -66,6 +66,7 @@
 						"rust"
 						"rust-cargo"
 						"maturin"
+						"openssh"
 						))))
     (services
       (list
