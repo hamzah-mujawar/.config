@@ -15,7 +15,7 @@
   (home-environment
    (packages (append (specifications->packages (list
 						;; Text Editors
-						"emacs"
+						"emacs-next-pgtk"
 						"neovim"
 						;; Terminal
 						"kitty"
