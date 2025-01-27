@@ -50,7 +50,8 @@
 						"sof-firmware"
 						"i915-firmware"
 						"bluez"
-						"bluez-alsa"))
+						"bluez-alsa"
+						))
                     %base-packages))
 
   ;; Below is the list of system services.  To search for available

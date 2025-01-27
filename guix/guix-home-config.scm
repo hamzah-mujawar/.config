@@ -17,11 +17,17 @@
 						;; Text Editors
 						"emacs-next-pgtk"
 						"neovim"
+						;;Emacs configuration
+						"emacs-guix"
+						"emacs-geiser"
+						;;xbox
+						"xpadneo"
 						;; Terminal
 						"kitty"
 						"foot"
 						;;Browser
 						"qutebrowser"
+						"firefox"
 						;;to stream yt on mpv
 						"mpv"
 						"yt-dlp"
@@ -38,10 +44,12 @@
 						"dunst"
 						;;steam
 						"steam-nvidia"
+						"steam-devices-udev-rules"
+						;;emulation
+						"dolphin-emu"
 						;;utilities
 						"flatpak"
 						"fastfetch"
-						"xdg-desktop-portal-gtk"
 						"wl-clipboard"
 						"grimshot"
 						"git"
@@ -67,6 +75,11 @@
 						"rust-cargo"
 						"maturin"
 						"openssh"
+						"xdg-desktop-portal-hyprland"
+						"xdg-desktop-portal-gtk"
+						"xdg-utils"
+						"node"
+						"gcc-toolchain"
 						))))
     (services
       (list
